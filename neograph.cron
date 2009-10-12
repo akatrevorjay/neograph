@@ -1,4 +1,4 @@
 
 #Generate IRC graphs with neato. Please use your www user.
-0,15,30,45 * * * * skywww /usr/local/bin/gen_irc_graphs.sh
+0,15,30,45 * * * * skywww /path/to/neograph.sh
 
