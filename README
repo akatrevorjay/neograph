@@ -1,0 +1,10 @@
+//
+// NeoGraph
+// @trevorj
+// Neoturbine
+//
+
+USAGE
+	1. Copy _config.example.php to _config.php.
+	2. Edit _config.php enter your MySQL info
+
